@@ -6,7 +6,6 @@ import java.util.Objects;
 
 public class Profesor extends Persona {
 
-    private static final long serialVersionUID = 1L;
 
     private String apellidos;
 
